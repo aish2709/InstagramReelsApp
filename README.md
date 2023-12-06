@@ -1,3 +1,12 @@
+An Instagram Reels Project where you can sign in & sign-up as a user and the data is stored in Firebase storage & Firestore. Context API, Modal, Commets is use.
+
+![image](https://github.com/aish2709/InstagramReelsApp/assets/57962329/d2272a16-60e2-4308-aaf7-dd8cc889eb6c)
+
+![image](https://github.com/aish2709/InstagramReelsApp/assets/57962329/bc0e3bcd-2771-4fb3-8adf-873ab9db68b1)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
